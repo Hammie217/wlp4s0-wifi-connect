@@ -1,0 +1,2 @@
+ip link set down wlp4s0
+wifi-menu -o wlp4s0
